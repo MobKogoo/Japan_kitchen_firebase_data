@@ -1,0 +1,36 @@
+{
+  "name": "japan-kitchen-firebase-data",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "domutils": "3.1.0",
+    "elementui-china-area": "1.0.1",
+    "firebase": "10.6.0",
+    "loader-utils": "3.2.1",
+    "node": "21.1.0",
+    "node-fetch": "3.3.2",
+    "react": "18.2.0",
+    "react-dom": "16.12.0",
+    "react-element-to-jsx-string": "15.0.0",
+    "react-router-dom": "6.14.1",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
